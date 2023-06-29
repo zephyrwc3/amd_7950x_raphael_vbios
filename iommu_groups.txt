@@ -1,0 +1,98 @@
+IOMMU GROUP 0
+ (0) 00:01.0 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14da]
+IOMMU GROUP 1
+ (1) 00:01.1 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:14db]
+IOMMU GROUP 2
+ (2) 00:01.2 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:14db]
+IOMMU GROUP 3
+ (3) 00:02.0 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14da]
+IOMMU GROUP 4
+ (4) 00:02.1 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:14db]
+IOMMU GROUP 5
+ (5) 00:03.0 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14da]
+IOMMU GROUP 6
+ (6) 00:04.0 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14da]
+IOMMU GROUP 7
+ (7) 00:08.0 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14da]
+IOMMU GROUP 8
+ (8) 00:08.1 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:14dd]
+IOMMU GROUP 9
+ (9) 00:08.3 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:14dd]
+IOMMU GROUP 10
+ (10) 00:14.0 SMBus [0c05]: Advanced Micro Devices, Inc. [AMD] FCH SMBus Controller [1022:790b] (rev 71)
+ (10) 00:14.3 ISA bridge [0601]: Advanced Micro Devices, Inc. [AMD] FCH LPC Bridge [1022:790e] (rev 51)
+IOMMU GROUP 11
+ (11) 00:18.0 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14e0]
+ (11) 00:18.1 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14e1]
+ (11) 00:18.2 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14e2]
+ (11) 00:18.3 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14e3]
+ (11) 00:18.4 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14e4]
+ (11) 00:18.5 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14e5]
+ (11) 00:18.6 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14e6]
+ (11) 00:18.7 Host bridge [0600]: Advanced Micro Devices, Inc. [AMD] Device [1022:14e7]
+IOMMU GROUP 12
+ (12) 01:00.0 VGA compatible controller [0300]: NVIDIA Corporation GA106 [GeForce RTX 3060 Lite Hash Rate] [10de:2504] (rev a1)
+IOMMU GROUP 13
+ (13) 01:00.1 Audio device [0403]: NVIDIA Corporation GA106 High Definition Audio Controller [10de:228e] (rev a1)
+IOMMU GROUP 14
+ (14) 02:00.0 Non-Volatile memory controller [0108]: Samsung Electronics Co Ltd NVMe SSD Controller PM9A1/PM9A3/980PRO [144d:a80a]
+IOMMU GROUP 15
+ (15) 03:00.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f4] (rev 01)
+IOMMU GROUP 16
+ (16) 04:00.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 17
+ (17) 04:04.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 18
+ (18) 04:05.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 19
+ (19) 04:06.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 20
+ (20) 04:07.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 21
+ (21) 04:08.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 22
+ (22) 04:0c.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 23
+ (23) 04:0d.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 24
+ (24) 0a:00.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f4] (rev 01)
+IOMMU GROUP 25
+ (25) 0b:00.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 26
+ (26) 0b:04.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 27
+ (27) 0b:06.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 28
+ (28) 0b:07.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 29
+ (29) 0b:08.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 30
+ (30) 0b:0c.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 31
+ (31) 0b:0d.0 PCI bridge [0604]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f5] (rev 01)
+IOMMU GROUP 32
+ (32) 0e:00.0 Ethernet controller [0200]: Realtek Semiconductor Co., Ltd. RTL8125 2.5GbE Controller [10ec:8125] (rev 05)
+IOMMU GROUP 33
+ (33) 0f:00.0 Network controller [0280]: MEDIATEK Corp. MT7922 802.11ax PCI Express Wireless Network Adapter [14c3:0616]
+IOMMU GROUP 34
+ (34) 11:00.0 USB controller [0c03]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f7] (rev 01)
+IOMMU GROUP 35
+ (35) 12:00.0 SATA controller [0106]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f6] (rev 01)
+IOMMU GROUP 36
+ (36) 13:00.0 USB controller [0c03]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f7] (rev 01)
+IOMMU GROUP 37
+ (37) 14:00.0 SATA controller [0106]: Advanced Micro Devices, Inc. [AMD] Device [1022:43f6] (rev 01)
+IOMMU GROUP 38
+ (38) 15:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Raphael [1002:164e] (rev c1)
+IOMMU GROUP 39
+ (39) 15:00.1 Audio device [0403]: Advanced Micro Devices, Inc. [AMD/ATI] Rembrandt Radeon High Definition Audio Controller [1002:1640]
+IOMMU GROUP 40
+ (40) 15:00.2 Encryption controller [1080]: Advanced Micro Devices, Inc. [AMD] VanGogh PSP/CCP [1022:1649]
+IOMMU GROUP 41
+ (41) 15:00.3 USB controller [0c03]: Advanced Micro Devices, Inc. [AMD] Device [1022:15b6]
+IOMMU GROUP 42
+ (42) 15:00.4 USB controller [0c03]: Advanced Micro Devices, Inc. [AMD] Device [1022:15b7]
+IOMMU GROUP 43
+ (43) 15:00.6 Audio device [0403]: Advanced Micro Devices, Inc. [AMD] Family 17h/19h HD Audio Controller [1022:15e3]
+IOMMU GROUP 44
+ (44) 16:00.0 USB controller [0c03]: Advanced Micro Devices, Inc. [AMD] Device [1022:15b8]
